@@ -5,4 +5,11 @@
 
 ## I tried to follow a different tutorial in C#, but didn't understand it enough so I switched to this one in CSS and HTML and JS
 
-## Demo link: https://www.youtube.com/watch?v=lgck-txzp9o&list=PLcFgJ5yCu0tqVA7FZqw3tWggXOWtI3Tf8&index=6&pp=gAQBiAQB
+## Tuturial link: https://www.youtube.com/watch?v=lgck-txzp9o&list=PLcFgJ5yCu0tqVA7FZqw3tWggXOWtI3Tf8&index=6&pp=gAQBiAQB
+## Demo  Link:
+
+
+### Problems:
+#### the collisions are off - hard to figure out when to jump
+#### replay button not showing
+#### animations not working
