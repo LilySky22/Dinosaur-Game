@@ -13,3 +13,10 @@
 #### the collisions are off - hard to figure out when to jump
 #### replay button not showing
 #### animations not working
+#### when you reset, the game speeds dramatically
+
+### Fixed:
+#### Collisitons arent tht much of an issue anymore
+#### replay button and end screen now working just a couple of glitches
+#### animations are working but one has white background
+#### reset not fixed
