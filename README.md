@@ -1,7 +1,7 @@
 # Dinosaur-Game
 
-## I'm following a tutorial to build a game similar to the dinosour game from google. This time I would completely change the theme, i'm thinikng to Orrpheous (from Hack Club), but I guess we'll see what I end up with
-###
+## I'm following a tutorial to build a game similar to the dinosaur game from google. This time I would completely change the theme, i'm thinikng to Orrpheous (from Hack Club), but I guess we'll see what I end up with
+
 
 ## I tried to follow a different tutorial in C#, but didn't understand it enough so I switched to this one in CSS and HTML and JS
 
